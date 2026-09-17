@@ -42,7 +42,6 @@ Working from the full 50-month dataset, the analysis rolled up quantity and valu
 - **Reassess Packaging/Technology reorder levels** — both run at 2.4–2.5x their reorder threshold on average, which may indicate over-ordering and tied-up capital that could be trimmed.
 
 ## Dashboard / Project Link
-🔗 [Insert your live Replit app link here]
-
+🔗https://supply-chain-inventory-dashboard--mwatigaturu.replit.app/admin
 ---
-*Built by [your name] — [month/year]*
+*Built by [William Gaturu — [August/2026]*
